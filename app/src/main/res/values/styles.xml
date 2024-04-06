@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PokemonNameStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">"android:fontFamily="@font/press_start_2p_regular"</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/pokedex_dark_blue</item>
+    </style>
+
+    <style name="PokemonNumberStyle">
+        <item name="android:textColor">@color/pokedex_red</item>
+        <item name="android:fontFamily">"android:fontFamily="@font/press_start_2p_regular"</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="PokemonTypeStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/pokedex_blue</item>
+        <item name="android:fontFamily">"android:fontFamily="@font/press_start_2p_regular"</item>
+    </style>
+</resources>

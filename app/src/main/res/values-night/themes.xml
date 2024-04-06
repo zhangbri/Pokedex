@@ -1,0 +1,25 @@
+<resources>
+    <style name="Theme.MyPokedex" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pokedex_red</item>
+        <item name="colorPrimaryVariant">@color/pokedex_dark_red</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/pokedex_blue</item>
+        <item name="colorSecondaryVariant">@color/pokedex_dark_blue</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <style name="PokemonNameStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="PokemonNumberStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="PokemonTypeStyle">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

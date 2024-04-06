@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme.Pokedex" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF0000</item>
+        <item name="colorPrimaryDark">#AA0000</item>
+        <item name="colorAccent">#0000FF</item>
+        <!-- Apply the font to the entire app -->
+        <item name="android:fontFamily">@font/press_start_2p_regular</item>
+    </style>
+</resources>
